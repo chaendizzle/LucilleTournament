@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdf1f8d8b0b1cd94e863502530313967, type: 3}
+  m_Name: AttackSpawner
+  m_EditorClassIdentifier: 
+  PrefabList:
+  - {fileID: 5150899364070591072, guid: ed96f28d99c257745bf277e0bf2bfb21, type: 3}
+  - {fileID: 8326416166177636288, guid: 5f7fc32954bd5c64684189272ba54f68, type: 3}
