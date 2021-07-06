@@ -12,7 +12,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 1
+  m_Mass: 0.011309734
   m_LinearDrag: 0
   m_AngularDrag: 0
   m_GravityScale: 0
@@ -87,18 +87,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &61179264
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7986545067554850206}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a700242aa79f19741bb11b8f7c7cd560, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &3728648028151011302
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -134,18 +122,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3edea3fa2aebeba488724aea5cac580a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &6248134078934185219
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7986545067554850206}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbc8e6d2c03537243ab9172b77b6175f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &8222897935626110683

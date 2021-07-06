@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086cba6df0d0bfb49aa80486e1ad1e00, type: 3}
+  m_Name: TripleShot
+  m_EditorClassIdentifier: 
+  Name: Triple Shot
+  Icon: {fileID: 0}
+  Image: {fileID: 0}
+  Description: Attack shoots in three directions at once.
+  Handler: {fileID: 2271852674290281289, guid: 3168a7430f87e4e40beb2554721e2f58, type: 3}
